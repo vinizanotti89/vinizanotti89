@@ -2,9 +2,9 @@
 
 Sou Vinícius Zanotti de Oliveira, formado em Engennharia da computação, atualmente focado em Dev Front End. Vou publicando alguns projetos enquanto estudo na plataforma Dev Club e aprimorando meus conhecimentos com alguns projetos em paralelo também, espero que gostem.
 <br>
-<p>Acesse meu Linkedin para mais informações :computer: </p> <a href="https://www.linkedin.com/in/vinicius-zanotti"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p>Acesse meu Linkedin para mais informações :computer: </p> <a href="https://www.linkedin.com/in/vinicius-zanotti"> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br><br>
-Atualmente estudando:
+Atualmente estudando :pencil2: :page_with_curl::
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)"/>
@@ -23,7 +23,7 @@ Atualmente estudando:
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 
-[![Vinícius stats](https://github-readme-stats.vercel.app/api?username=vinizanotti89)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizanotti89&show_icons=true&theme=transparent)
 <!--
 **vinizanotti89/vinizanotti89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
