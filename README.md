@@ -2,7 +2,7 @@
 
 Sou Vinícius Zanotti de Oliveira, formado em Engennharia da computação, atualmente focado em Dev Front End. Vou publicando alguns projetos enquanto estudo na plataforma Dev Club e aprimorando meus conhecimentos com alguns projetos em paralelo também, espero que gostem.
 
-<p>Acesse meu Linkedin para mais informações :computer: </p> <a href="https://www.linkedin.com/in/vinicius-zanotti"> <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<p>Acesse meu Linkedin para mais informações :computer: </p> <a href="https://www.linkedin.com/in/vinicius-zanotti"> <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>  <br><br>
 
 Atualmente estudando :pencil2: :page_with_curl::
 
