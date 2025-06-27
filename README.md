@@ -39,7 +39,7 @@ Aqui no GitHub, compartilho projetos pessoais, experimentos e ideias que me acom
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinizanotti89&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinizanotti89&show_icons=true&theme=transparent)
 
 ---
 
